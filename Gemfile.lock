@@ -1,0 +1,35 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    bourne (1.3.0)
+      mocha (= 0.13.0)
+    diff-lcs (1.1.3)
+    fuubar (1.1.0)
+      rspec (~> 2.0)
+      rspec-instafail (~> 0.2.0)
+      ruby-progressbar (~> 1.0.0)
+    metaclass (0.0.1)
+    mocha (0.13.0)
+      metaclass (~> 0.0.1)
+    paint (0.8.5)
+    rspec (2.12.0)
+      rspec-core (~> 2.12.0)
+      rspec-expectations (~> 2.12.0)
+      rspec-mocks (~> 2.12.0)
+    rspec-core (2.12.1)
+    rspec-expectations (2.12.0)
+      diff-lcs (~> 1.1.3)
+    rspec-instafail (0.2.4)
+    rspec-mocks (2.12.0)
+    ruby-progressbar (1.0.2)
+    wirb (1.0.1)
+      paint
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bourne
+  fuubar
+  rspec
+  wirb
