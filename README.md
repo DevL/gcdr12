@@ -1,4 +1,3 @@
-gcdr12
-======
-
-Minimal starting point for each Ruby session duringthe Global Day of Code Retreat 2012.
+Global Day of Code Retreat
+==========================
+Minimal starting point for each Ruby session during the Global Day of Code Retreat.
